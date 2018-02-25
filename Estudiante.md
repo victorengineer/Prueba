@@ -8,3 +8,26 @@
     * Actualizar la descripcion.
     * Cancelar ticket.
     * Subir una imagen. 
+
+### Modelos:
+* VerTicketModel
+    * Estado
+    * LaUltimaRespuesta
+    * Categoria
+    * Descripcion
+    * NumeroTicket
+* AbrirTicket
+    * Imagen
+    * Detalle
+    * Categoria
+* AgregarComentario
+    * Mensaje
+    * NumeroTicket
+* ActualizarDescripcion
+    * NuevaDescripcion
+    * NumeroTicket
+* CancelarTicket
+    * NumeroTicket
+* AdjuntarArchivo
+    * Archivo
+    * NumeroTicket
