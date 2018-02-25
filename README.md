@@ -21,4 +21,4 @@ Sin este sistema el alumno tendria que hacer una cola interminable y generaria u
 
 ### Modulos
 * [Estudiantes](Estudiante.md)
-* [Operador]](Operador.md)
+* [Operador](Operador.md)
