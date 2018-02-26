@@ -1,0 +1,12 @@
+C:\Users\Victor Antonio\Desktop\git\Prueba\bin\Debug\netcoreapp2.0\app.db
+C:\Users\Victor Antonio\Desktop\git\Prueba\bin\Debug\netcoreapp2.0\Prueba.deps.json
+C:\Users\Victor Antonio\Desktop\git\Prueba\bin\Debug\netcoreapp2.0\Prueba.runtimeconfig.json
+C:\Users\Victor Antonio\Desktop\git\Prueba\bin\Debug\netcoreapp2.0\Prueba.runtimeconfig.dev.json
+C:\Users\Victor Antonio\Desktop\git\Prueba\bin\Debug\netcoreapp2.0\Prueba.dll
+C:\Users\Victor Antonio\Desktop\git\Prueba\bin\Debug\netcoreapp2.0\Prueba.pdb
+C:\Users\Victor Antonio\Desktop\git\Prueba\obj\Debug\netcoreapp2.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Victor Antonio\Desktop\git\Prueba\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Victor Antonio\Desktop\git\Prueba\obj\Debug\netcoreapp2.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\Victor Antonio\Desktop\git\Prueba\obj\Debug\netcoreapp2.0\Prueba.AssemblyInfo.cs
+C:\Users\Victor Antonio\Desktop\git\Prueba\obj\Debug\netcoreapp2.0\Prueba.dll
+C:\Users\Victor Antonio\Desktop\git\Prueba\obj\Debug\netcoreapp2.0\Prueba.pdb
