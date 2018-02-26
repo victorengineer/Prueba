@@ -1,0 +1,27 @@
+@model Prueba.Models.TicketsViewsModels.CancelarTicketModel
+
+@{
+    ViewData["Title"] = "Cancelar";
+}
+
+<h2>Cancelar</h2>
+
+<h3>Estas seguro que quieres borrar?</h3>
+<div>
+    <h4>Cancelar Ticket</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NumeroTicket)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NumeroTicket)
+        </dd>
+        
+    </dl>
+    
+    <form asp-action="Cancelar">
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index">Regresar</a>
+    </form>
+</div>

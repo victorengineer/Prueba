@@ -5,3 +5,24 @@
 }
 
 <h2>@ViewData["Title"]</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Problema</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var t in Model){
+            <tr>
+                <td>@t.Numero</td>
+                <td>@t.Descripcion</td>
+                <td>
+                    <a asp-area="" asp-controller="Tickets" asp-action="Detalles" asp-route-id="@t.Numero">Detalles</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
